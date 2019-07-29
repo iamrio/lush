@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## gracias por formar parte de la comunidad.
 
-You can use the [editor on GitHub](https://github.com/iamrio/lush/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+lush es una comunidad gaming/chill dedicada al shitpost y compartir junto a otras personas, tenemos pocas reglas y nos manejamos en un ambiente divertido y buen rollo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### tabla de contenido
+[reglas](https://google.com/)
+[guías](https://google.com/)
+[staff](https://google.com/)
+[actualizaciones](https://google.com/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
